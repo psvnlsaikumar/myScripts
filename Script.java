@@ -33,3 +33,4 @@ class TestClass {
       return probability;
     }
 }
+}
