@@ -5,6 +5,7 @@ public class Collatz{
 
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
+		System.out.println("Please enter the number");
 		System.out.println(collatz(scan.nextInt()));
 	}
 
